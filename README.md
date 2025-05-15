@@ -6,4 +6,4 @@
 
 <a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/note_data_to_instrument">note_data_to_instrument Repository Page</a>
 
-<a href="https://daniel-hanrahan-tools-and-games.github.io/note_data_to_instrument/">>note_data_to_instrument ReadMe Page</a>
+<a href="https://daniel-hanrahan-tools-and-games.github.io/note_data_to_instrument/">note_data_to_instrument ReadMe Page</a>
